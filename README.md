@@ -15,4 +15,4 @@ Users should be able to:
 ![](./my_solution.png)
 
 ### Live Site
-![]https://petersim1.github.io/Frontend_Mentor/
+https://petersim1.github.io/Frontend_Mentor/
